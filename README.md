@@ -2,8 +2,6 @@
 
 This is the code test for Robert Anderson.
 
-Thanks for seeing me on Wednesday, it was great to meet you.
-
 I have used React for the javascript framework and Bootstrap for the responsive design framework.
 
 SASS was used for the css precompilation.
@@ -26,7 +24,7 @@ Or you can view the deployed project here:
 
 ## Tests
 
-I have used Jest for unit testing. These tests can be run from the NodeJS console through the npm test command.
+The aim is to have jest hooked up and run from the NodeJS console through the npm test command.
 
 
 ## Contributors
