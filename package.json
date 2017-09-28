@@ -1,0 +1,29 @@
+{
+  "name": "turtle",
+  "version": "1.0.0",
+  "description": "This is a code test for Deloitte for Robert Anderson",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "author": "Robert Anderson",
+  "license": "ISC",
+  "keywords": [
+    "turtle"
+  ],
+  "devDependencies": {
+    "babel-preset-stage-2": "^6.24.1",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "node-sass": "^4.5.3",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-sass": "^2.2.1"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
