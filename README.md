@@ -21,11 +21,6 @@ Or you can view the deployed project here:
 
 
 
-## Tests
-
-I have used Jest for unit testing. These tests can be run from the NodeJS console through the npm test command.
-
-
 ## Contributors
 
 Robert Anderson
